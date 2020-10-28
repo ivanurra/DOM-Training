@@ -1,2 +1,2 @@
-# DOM-Training
-Some DOM training in JS.
+# DOM-Training session
+DOM training session in JS.
